@@ -1,0 +1,3 @@
+1. Установите Nginx: sudo apt install nginx
+2. Настройте HTML-страницу в /var/www/html/index.html
+3. Перезапустите сервер: sudo systemctl restart nginx
