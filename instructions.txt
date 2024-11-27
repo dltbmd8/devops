@@ -1,0 +1,3 @@
+1. Установите Nginx: sudo apt install nginx -y
+2. Создайте HTML-страницу: echo 'Hello, DevOps World!' > /var/www/html/index.html
+3. Перезапустите Nginx: sudo systemctl restart nginx
